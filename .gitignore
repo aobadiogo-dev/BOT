@@ -1,0 +1,8 @@
+.env
+database.db
+cards_pool.json
+assets/*.png
+!assets/.gitkeep
+!assets/campo_base.png
+__pycache__/
+*.pyc

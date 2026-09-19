@@ -1,0 +1,9 @@
+{
+  "ID": "",
+  "NAME": "vof-guru",
+  "TYPE": "bot",
+  "MAIN": "main.py",
+  "RAM": 100,
+  "VERSION": "latest",
+  "AUTORESTART": true
+}
